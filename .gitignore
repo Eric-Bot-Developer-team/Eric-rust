@@ -1,3 +1,4 @@
 /target/
 /.idea/
 /eric.iml
+Cargo.lock
